@@ -14,6 +14,8 @@ for diff testing
 
 ## How to contribute
 
+Random
+
 ###Copyright
 
 2014 Git.Training
