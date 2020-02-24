@@ -13,3 +13,7 @@ for diff testing
 ## Deployment
 
 ## How to contribute
+
+###Copyright
+
+2014 Git.Training
